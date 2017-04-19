@@ -1,0 +1,139 @@
+/* Additional styles */
+
+body {
+  font-family: "Open Sans";
+  padding-top: 70px;
+}
+/* My standard vertical spacing classes */
+
+.padding-inside-top-xs {
+  padding-top: 10px;
+}
+
+.padding-inside-top-sm {
+  padding-top: 20px;
+}
+
+.padding-inside-top-md {
+  padding-top: 50px;
+}
+
+.padding-inside-top-lg {
+  padding-top: 150px;
+}
+
+.padding-inside-top-xl {
+  padding-top: 200px;
+}
+
+.padding-inside-bottom-xs {
+  padding-bottom: 10px;
+}
+
+.padding-inside-bottom-sm {
+  padding-bottom: 20px;
+}
+
+.padding-inside-bottom-md {
+  padding-bottom: 50px;
+}
+
+.padding-inside-bottom-lg {
+  padding-bottom: 150px;
+}
+
+.padding-inside-bottom-xl {
+  padding-bottom: 200px;
+}
+
+.margin-above-top-xs {
+  margin-top: 10px;
+}
+
+.margin-above-top-sm {
+  margin-top: 20px;
+}
+
+.margin-above-top-md {
+  margin-top: 50px;
+}
+
+.margin-above-top-lg {
+  margin-top: 150px;
+}
+
+.margin-below-bottom-xs {
+  margin-bottom: 10px;
+}
+
+.margin-below-bottom-sm {
+  margin-bottom: 20px;
+}
+
+.margin-below-bottom-md {
+  margin-bottom: 50px;
+}
+
+.margin-below-bottom-lg {
+  margin-bottom: 150px;
+}
+
+.margin-below-bottom-xl {
+  margin-bottom: 200px;
+}
+
+.margin-before-left-xs {
+  margin-left: 10px;
+}
+
+.margin-before-left-sm {
+  margin-left: 20px;
+}
+
+.margin-before-left-md {
+  margin-left: 50px;
+}
+
+.margin-before-left-lg {
+  margin-left: 150px;
+}
+
+.margin-before-left-xl {
+  margin-left: 200px;
+}
+
+
+
+.friends-image {
+  height: 80px;
+  width: 80px;
+}
+
+
+.bg_e{
+position: relative;
+}
+
+.card_bg{
+position:absolute;
+bottom:0;
+width:263px;
+padding:3%;
+background-image:-webkit-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,.8),#222);
+background-image:linear-gradient(180deg,rgba(0,0,0,.5),rgba(0,0,0,.8),#222);
+color:#FFFFFF;
+}
+.store_text{
+  color: #FFFFFF;
+}
+
+
+.product_card_bg{
+  position:absolute;
+  bottom:0;
+  width:263px;
+  padding:3%;
+  background-image:-webkit-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,.8),#FFF);
+  background-image:linear-gradient(180deg,rgba(0,0,0,.5),rgba(0,0,0,.8),#222);
+  color:#FFFFFF;
+}
